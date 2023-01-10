@@ -6,7 +6,6 @@ const texts = ["Mother: Júlia Vidal, 58.\nFather: Gualter Ferreira, 39. (Uptigh
                "Family Surname: Yoshizawa\nGrandmother: Caroline Obando, 89.\nGrandfather: Patrick Yoshizawa, 95. (Openly Racist)\nPaternal Aunts\nViolet, 65 (Criminal)\nPaternal Uncles\nMorimasa, 66 (Religious)",
                "Family Surname: Donoso\nGrandmother: Constancia Calvo, 53. (Depressed)\nGrandfather: Godofredo Donoso, 60. (Openly Racist)\nMaternal Uncles\nKondo, 27\nVerissimo, 22\nBolade, 35",
                "Family Surname: Owiti\nMother: Kidawa Sinzoyiheba, 60.\nFather: Alimayu Owiti, 53. (Homophobic)\nBrothers (1)\nZewde, 25 (Religious)\nMC's Children: 1\nDaughters (1)\nShukara, 3",
-               "<h2>MC's Family</h2>MC Family Surname: <b>Owiti</b><hr><b>Mother: </b>Kidawa Sinzoyiheba, 60. <br><b>Father: </b>Alimayu Owiti, 53. <i> (Homophobic)</i><hr><b>Brothers (1)</b><br>Zewde, 25<i> (Religious)</i><br><hr><b>MC's Children: 1</b><br><b>Daughters (1)</b><br>Shukara, 3<br>",
               ];
 
     $(".buddy").on("swiperight",function(){

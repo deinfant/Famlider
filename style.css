@@ -28,6 +28,7 @@
 }
 .desc {
   color: black;
+  white-space: pre-line;
   display: flex;
   justify-content: center;
 }

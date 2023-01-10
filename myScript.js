@@ -1,5 +1,5 @@
 $(document).ready(function(){
-const text = document.getElementById("text");
+const text = document.querySelector("desc");
 const texts = ["text 1", "text 2", "text 3", "text 4"];
 
     $(".buddy").on("swiperight",function(){

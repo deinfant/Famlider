@@ -1,6 +1,6 @@
 $(document).ready(function(){
 const descc = document.getElementById("textbelowidk");
-const texts = ["text 1", "text 2", "text 3", "text 4"];
+const texts = ["Mother: Júlia Vidal, 58.\nFather: Gualter Ferreira, 39. (Uptight)\nSisters (1)\nHayle, 8\nMC's Children: 2\nSons (2)\nMateo, 5\nTiburcio, 6 (Deceased)", "text 2", "text 3", "text 4"];
 
     $(".buddy").on("swiperight",function(){
       $(this).addClass('rotate-left').delay(700).fadeOut(1);

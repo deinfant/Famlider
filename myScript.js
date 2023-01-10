@@ -7,6 +7,7 @@ const texts = ["Mother: Júlia Vidal, 58.\nFather: Gualter Ferreira, 39. (Uptigh
                "Family Surname: Donoso\nGrandmother: Constancia Calvo, 53. (Depressed)\nGrandfather: Godofredo Donoso, 60. (Openly Racist)\nMaternal Uncles\nKondo, 27\nVerissimo, 22\nBolade, 35",
                "Family Surname: Owiti\nMother: Kidawa Sinzoyiheba, 60.\nFather: Alimayu Owiti, 53. (Homophobic)\nBrothers (1)\nZewde, 25 (Religious)\nMC's Children: 1\nDaughters (1)\nShukara, 3",
               ];
+  descc.textContent = texts[Math.floor(Math.random() * texts.length)];
 
     $(".buddy").on("swiperight",function(){
       $(this).addClass('rotate-left').delay(700).fadeOut(1);
